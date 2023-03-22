@@ -1,0 +1,2 @@
+# kyc
+KYC onboarding page
